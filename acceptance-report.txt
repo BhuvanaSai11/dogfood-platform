@@ -1,0 +1,9 @@
+Dogfood 2026 - Acceptance Suite Report
+Status: PASS (T1-Core Verified)
+
+- Authentication & Role Isolation: Verified
+- Event Creation & Configuration: Verified
+- Team Formation via Invite Links: Verified
+- Project Submission & Deadlines: Verified
+- Public Gallery Search: Verified
+- Local Docker Deployment (`docker compose up`): Verified
